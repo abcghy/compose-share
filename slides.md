@@ -119,7 +119,7 @@ LazyColumn 就是和 RecyclerView 类似的一个竖向列表 [点击]
 ---
 layout: image-right
 
-image: ./preview.png
+image: https://i.imgur.com/kZMD4ZT.png
 ---
 
 ## 可预览
